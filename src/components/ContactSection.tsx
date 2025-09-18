@@ -27,13 +27,13 @@ const socialLinks = [
   {
     icon: Linkedin,
     label: "LinkedIn",
-    href: "https://linkedin.com",
+    href: "https://www.linkedin.com/in/yassen-nagy-a94917a7/",
     color: "hover:text-blue-400"
   },
   {
     icon: Github,
     label: "GitHub", 
-    href: "https://github.com",
+    href: "https://github.com/yassenexc",
     color: "hover:text-purple-400"
   }
 ];
